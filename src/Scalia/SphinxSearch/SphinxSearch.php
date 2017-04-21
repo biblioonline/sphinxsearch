@@ -225,6 +225,16 @@ class SphinxSearch {
     return $this;
   }
 
+  public function setIndexWeights(array $weights)
+  {
+      $this->_connection->setIndexWeights($weights);
+  }
+
+  public function getSphinxClientInstance()
+  {
+      return $this->_connection;
+  }
+
   public function getTotalCount()
   {
     return $this->_total_count;
