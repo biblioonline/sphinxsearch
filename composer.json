@@ -1,18 +1,18 @@
 {
-  "name": "scalia/sphinxsearch",
-  "description": "Laravel package to query Sphinxsearch",
+  "name": "basili4-1982/sphinxsearch",
+  "description": "Laravel package to query Sphinxsearch (extends Scalia\\SphinxSearch)",
   "keywords": [
     "sphinx",
     "sphinxsearch",
     "laravel",
     "laravel 4"
   ],
-  "homepage": "http://github.com/scalia/sphinxsearch",
+  "homepage": "https://github.com/basili4-1982/sphinxsearch",
   "license": "Apache-2.0",
   "authors": [
     {
-      "name": "Scalia",
-      "email": "contacto@scalia.es"
+      "name": "basili4-1982",
+      "email": "basili4-1982@gmail.com"
     }
   ],
   "require": {
