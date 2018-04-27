@@ -1,5 +1,5 @@
 {
-  "name": "basili4-1982/sphinxsearch",
+  "name": "biblioonline/sphinxsearch",
   "description": "Laravel package to query Sphinxsearch (extends Scalia\\SphinxSearch)",
   "keywords": [
     "sphinx",
