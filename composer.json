@@ -7,12 +7,12 @@
     "laravel",
     "laravel 4"
   ],
-  "homepage": "https://github.com/basili4-1982/sphinxsearch",
+  "homepage": "https://github.com/biblioonline/sphinxsearch",
   "license": "Apache-2.0",
   "authors": [
     {
-      "name": "basili4-1982",
-      "email": "basili4-1982@gmail.com"
+      "name": "biblioonline",
+      "email": "danik0072@gmail.com"
     }
   ],
   "require": {
