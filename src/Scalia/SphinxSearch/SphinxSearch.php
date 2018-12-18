@@ -61,7 +61,7 @@ class SphinxSearch {
 
   public function setRankingMode($mode, $expr = '')
   {
-    $this->_connection->setRankingMode($mode, $expr = '');
+    $this->_connection->setRankingMode($mode, $expr);
     return $this;
   }
 
